@@ -28,7 +28,7 @@ Ensemble AI system that analyzes your wardrobe and generates outfits. Fine-tuned
 React Native app centralizing personal wellness data — workout logs, mood tracking, habit streaks, and a unified dashboard.  
 `React Native` `JavaScript` `Mobile`
 
-**[StepQuest 2](https://github.com/drome05/StepQuest2)** — fitness RPG for Android `in development`  
+**[StepQuest](https://github.com/drome05/StepQuest)** — fitness RPG for Android `in development`  
 Android game that converts real-world step count into in-game power. Walk more, hit harder — spend accumulated steps to battle bosses and progress through the game.  
 `Java` `Android Studio` `Android Sensor API`
 

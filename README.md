@@ -1,7 +1,7 @@
 # Daniel Romero
 
 **CS student** · machine learning · computer vision · mobile & systems  
-📍 Tulsa, OK · graduating May 2026 · open to new grad roles · diromerop@gmail.com
+📍 Tulsa, OK · diromerop@gmail.com
 
 ---
 

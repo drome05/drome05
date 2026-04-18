@@ -1,7 +1,7 @@
 # Daniel Romero
 
-**CS student** · builder of things that run close to metal and close to data  
-📍 Tulsa, OK · open to new grad roles · graduating 2026
+**CS student** · systems programming · data science · graduating May 2026  
+📍 Tulsa, OK · open to new grad & internship roles · diromerop@gmail.com
 
 ---
 
@@ -14,38 +14,32 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=flat-square&logo=discord&logoColor=white)
 
 ---
 
 ### Projects
 
-**[Q-bert](https://github.com/Dani0517/Q-bert)** — 10-man customs Valorant bot  
-Manages lobbies, queues, and match coordination for competitive play via Discord.  
-`Python` `Discord API` `Valorant`
+**[Q-bert](https://github.com/drome05/Q-bert)** — Valorant 10-man customs bot  
+Discord bot that manages competitive lobbies, player queues, and match coordination for organized Valorant play.  
+`Python` `Discord API` `Async programming`
 
-**ext2 Filesystem Simulator** — userspace file system over TCP/IP  
-Client-server implementation of an ext2-based file system with full shell command support, built in C++.  
-`C++` `TCP/IP` `Systems Programming`
+**ext2 Filesystem Simulator** — systems programming  
+TCP/IP client-server implementation of a Unix-style file system in C++. Supports shell commands, inode management, and directory traversal over a network socket.  
+`C++` `TCP/IP` `File Systems` `OS Concepts`
 
-**Cooperative Thread Scheduler** — userspace OS scheduler  
-Producer-consumer queue with inline x86-64 assembly for context switching. Handles blocking, deadlocks, and multi-slot waiting.  
-`C++` `x86-64 Assembly` `OS Concepts`
+**Cooperative Thread Scheduler** — OS internals  
+Userspace thread scheduler with a producer-consumer task queue. Context switching implemented in inline x86-64 assembly. Handles blocking, deadlock scenarios, and multi-slot waiting threads.  
+`C++` `x86-64 Assembly` `Concurrency`
 
----
-
-### Areas of Focus
-
-| Systems | Data Science | Tooling |
-|---|---|---|
-| OS, filesystems, schedulers | ML, clustering, PCA in R & Python | Discord bots, automation, APIs |
+**UCI Adult Income Analysis** — data science  
+Exploratory analysis and visualization of the UCI Adult dataset to predict income levels. Built in R with ggplot2; presented findings to stakeholders.  
+`R` `ggplot2` `EDA` `Machine Learning`
 
 ---
 
-### GitHub Stats
+### Education
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dani0517&show_icons=true&theme=default&hide_border=true&count_private=true)
+**B.S. Computer Science** · Mathematics minor  
+*Graduating May 2026*
 
----
-
-📬 diromerop@gmail.com
+Relevant coursework: Operating Systems, Data Science Foundations & Applications, Systems Programming, Linear Algebra

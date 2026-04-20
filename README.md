@@ -20,7 +20,7 @@
 
 ### Projects
 
-**[Estella](https://github.com/drome05/Estella)** — AI-powered fashion assistant  
+**[Estella](https://github.com/drome05/Estella)** — AI-powered fashion assistant `in development` 
 Ensemble AI system that analyzes your wardrobe and generates outfits. Fine-tuned ResNet-50 backbone for clothing classification (88% accuracy), OpenCV L\*a\*b\* color extraction (95% reliability), and a deterministic expert system with temporal decay heuristic for closet rotation.  
 `Python` `PyTorch` `OpenCV` `Computer Vision` `Expert Systems`
 
@@ -28,7 +28,7 @@ Ensemble AI system that analyzes your wardrobe and generates outfits. Fine-tuned
 React Native app centralizing personal wellness data — workout logs, mood tracking, habit streaks, and a unified dashboard.  
 `React Native` `JavaScript` `Mobile`
 
-**[StepQuest](https://github.com/drome05/StepQuest)** — fitness RPG for Android `in development`  
+**[StepQuest](https://github.com/drome05/StepQuest)** — fitness RPG for Android  
 Android game that converts real-world step count into in-game power. Walk more, hit harder — spend accumulated steps to battle bosses and progress through the game.  
 `Java` `Android Studio` `Android Sensor API`
 

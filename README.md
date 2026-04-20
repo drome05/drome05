@@ -20,7 +20,7 @@
 
 ### Projects
 
-**[Estella](https://github.com/drome05/Estella)** — AI-powered fashion assistant `in development` 
+**[Estella](https://github.com/drome05/Estella)** — AI-powered fashion assistant `in development`   
 Ensemble AI system that analyzes your wardrobe and generates outfits. Fine-tuned ResNet-50 backbone for clothing classification (88% accuracy), OpenCV L\*a\*b\* color extraction (95% reliability), and a deterministic expert system with temporal decay heuristic for closet rotation.  
 `Python` `PyTorch` `OpenCV` `Computer Vision` `Expert Systems`
 

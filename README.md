@@ -1,6 +1,6 @@
 # Daniel Romero
 
-**CS student** · machine learning · computer vision · mobile & systems  
+**AI/ML ENGINEER** · machine learning · computer vision · mobile & systems  
 📍 Tulsa, OK · diromerop@gmail.com
 
 ---
@@ -45,6 +45,6 @@ TCP/IP client-server implementation of a Unix-style file system in C++. Supports
 ### Education
 
 **B.S. Computer Science** · Mathematics minor · Oral Roberts University  
-*Graduating May 2026*
+*Graduated May 2026*
 
 Relevant coursework: Operating Systems, Data Science Foundations & Applications, Systems Programming, Linear Algebra

@@ -1,7 +1,6 @@
 # Daniel Romero
 
-**AI/ML ENGINEER** · machine learning · computer vision · mobile & systems  
-📍 Tulsa, OK · diromerop@gmail.com
+**AI/ML ENGINEER** · machine learning · computer vision · mobile & systems · diromerop@gmail.com
 
 ---
 

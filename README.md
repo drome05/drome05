@@ -1,6 +1,6 @@
 # Daniel Romero
 
-**SOFTWARE ENGINEER** · platform & infrastructure · systems · mobile · diromerop@gmail.com
+**Platform ENGINEER** · platform & infrastructure · systems · mobile · diromerop@gmail.com
 
 🌐 [drome05.github.io](https://drome05.github.io)
 
